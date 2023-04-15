@@ -2,7 +2,7 @@ Roblox FE Gui Script Works on all games (Unless Anticheat) Works with any execut
 
 MADE WITH LUMINOUSITY LIB https://github.com/drillygzzly/Roblox-UI-Libs/tree/main/Luminosity%20Lib
 
-Script: In 
+Script: In https://github.com/fearwastaken/trexity/blob/main/trexity.lua
 
 FOR THE PEOPLE WHO DONT KNOW A lib is library for short, and if u think using it is a skid way to make scripts, its not. You get buttons and toggles and shit bit you have to code the rest.
 
